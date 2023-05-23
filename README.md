@@ -1,4 +1,4 @@
-## DBMS Bash Shell Script Project
+## Database Management System Bash Shell Script Project
 
 >Users can store and retrieve the data from Hard-disk.
 
